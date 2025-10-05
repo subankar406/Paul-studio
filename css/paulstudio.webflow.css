@@ -1654,7 +1654,6 @@ figcaption {
 }
 
 .portfolio_image {
-  aspect-ratio: 16 / 9;
   object-fit: cover;
   width: 100%;
   height: 100%;
