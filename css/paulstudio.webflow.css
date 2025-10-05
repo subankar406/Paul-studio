@@ -2809,6 +2809,9 @@ figcaption {
     padding-left: 1.25rem;
     padding-right: 1.25rem;
   }
+  .portfolio_item-link{
+    width: 100%;
+  }
 }
 
 #w-node-e699535d-1fd0-b96b-1bc9-d76eb693a4ef-b693a4db {
